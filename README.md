@@ -1,4 +1,4 @@
-# Supply-chain-Analysis
+# Supply-chain-Analysis - Atliq Mart
 Problem Statement
 Atliq Mart is a Growing FMCG manufacturer headquarter in Gujarat, India. It is currently operational in three cities Surat,
 Ahmedabad and Vadodara. They want to expand to other metros/ Tier 1 cities in next 2 years.
